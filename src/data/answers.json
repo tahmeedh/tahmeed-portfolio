@@ -4,6 +4,18 @@
     "answer": "I am a Software Engineer in Test with 7+ years of experience specializing in automation, AI testing, and cybersecurity. I’ve led test automation initiatives at Encorp and Global Relay, building scalable frameworks that improved efficiency and reduced defects significantly."
   },
   {
+    "question": "What's his experience?",
+    "answer": "He has 7+ years of experience as a Software Engineer in Test, specializing in automation, AI testing, and cybersecurity. He has led test automation initiatives at Encorp and Global Relay, building scalable frameworks that improved efficiency and reduced defects significantly."
+  },
+  {
+    "question": "What are his skills?",
+    "answer": "His key skills include test automation with Playwright, Cypress, Selenium, and WebdriverIO; API testing with Postman; CI/CD integration using GitHub Actions and Jenkins; and experience with AWS services like SageMaker. He also has strong leadership and mentoring abilities."
+  },
+  {
+    "question": "What are his achievements?",
+    "answer": "His notable achievements include leading the migration of 300+ tests from Selenium to Playwright at Global Relay, resulting in 75% faster execution and improved reliability. At Encorp, he led testing for a critical AI Computer Vision model, discovering a bias issue early and ensuring it was fixed before production."
+  },
+  {
     "question": "Why do you want to work for us?",
     "answer": "I’m excited about your company’s mission and the opportunity to work on impactful products. My background in building high-quality automation frameworks aligns perfectly with your need for reliable, scalable testing solutions."
   },
@@ -54,6 +66,14 @@
   {
     "question": "Tell me about a time you worked on a team.",
     "answer": "At Encorp I collaborated closely with developers and data scientists to deliver an AI Computer Vision model, ensuring high quality through early testing and feedback loops."
+  },
+  {
+    "question": "Tell me about a time you had to learn something new quickly.",
+    "answer": "When I joined Encorp, I had to quickly learn about AI testing and computer vision. I took online courses, read research papers, and worked closely with the team to get up to speed and contribute effectively."
+  },
+  {
+    "question": "what you looking for ?",
+    "answer": "I’m looking for a challenging role where I can leverage my automation and security expertise to drive quality improvements and work on impactful projects."
   },
   {
     "question": "Tell me about a time you faced a challenge.",
