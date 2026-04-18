@@ -6,7 +6,7 @@ export const resumeData = {
   email: "tahmeedhossain@gmail.com",
   phone: "+1 604-818-5738",
   links: {
-    linkedin: "https://linkedin.com/in/tahmeedhossain",
+    linkedin: "https://www.linkedin.com/in/tahmeed-hossain1/?originalSubdomain=ca",
     github: "https://github.com/tahmeedh",
     portfolio: "https://tahmeedhossain.com",
   },
@@ -125,7 +125,7 @@ Name: Tahmeed Hossain
 Title: Software Engineer in Test / SDET / Lead QA Automation Engineer
 Location: Vancouver, BC, Canada
 Email: tahmeedhossain@gmail.com
-LinkedIn: https://linkedin.com/in/tahmeedhossain
+LinkedIn: https://www.linkedin.com/in/tahmeed-hossain1/?originalSubdomain=ca
 GitHub: https://github.com/tahmeedh
 
 SUMMARY:
