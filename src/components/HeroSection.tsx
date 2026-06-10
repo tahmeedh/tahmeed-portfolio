@@ -219,6 +219,13 @@ export default function HeroSection() {
           <a href="#works" className="hover:text-white transition-colors">Works</a>
           <a href="#contact" className="hover:text-white transition-colors">Contact</a>
           <a
+            href="/TahmeedHossain_Resume.pdf"
+            download
+            className="hover:text-white transition-colors"
+          >
+            Resume
+          </a>
+          <a
             href="https://github.com/tahmeedh"
             target="_blank"
             rel="noopener noreferrer"
